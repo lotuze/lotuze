@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/артем-кравцов-171824401/">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/lotusesflower">
+  <a href="https://t.me/lotuzes">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://www.youtube.com/@LotusesFlowers37">
@@ -14,7 +14,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Frederic-Marshall&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=lotuze&style=flat-square&color=blue" alt=""/>
 </div>
 
 ## Всем привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -29,11 +29,11 @@
 - Разработка CMS/интеграций.
 
 #### 🧠 Подробное описание навыков:
-- **Backend:** PHP 7+, Laravel, Yii (Yii2)
-- **Frontend:** Vue 2-3, Alpine.js, Vite
-- **CMS:** WordPress, OpenCart
-- **Инфраструктура:** Linux, Nginx, Docker (compose)  
-- **Прочее:** Git, MVC, Принципы ООП (SOLID, DRY, KISS и пр.)
+- **Backend:** PHP 7+, Laravel, Yii (Yii2), Java
+- **Frontend:** Vue 2-3, Alpine.js, Vite, React
+- **CMS:** OpenCart
+- **Инфраструктура:** Linux, Nginx, Docker (compose), Git
+- **Прочее:** MVC, Принципы ООП (SOLID, DRY, KISS и пр.)
 
 #### 📫Контакты
 - Email: [artemkrak222@gmail.com](mailto:artemkrak222@gmail.com)
