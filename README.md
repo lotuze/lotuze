@@ -37,7 +37,7 @@
 
 #### 📫Контакты
 - Email: [artemkrak222@gmail.com](mailto:artemkrak222@gmail.com)
-- Telegram: [@lotusflowers](https://t.me/lotusesflower)
+- Telegram: [@lotuzes](https://t.me/lotuzes)
 
 ### :hammer_and_wrench: Языки и инструменты:
 ![PHP](https://skillicons.dev/icons?i=php)
